@@ -1,1 +1,2 @@
 # Autofill
+The **Trie Autocomplete and Word Meaning Finder** is a Python Tkinter-based application that provides real-time word suggestions, word meaning search, and allows users to add new words with meanings. Using a Trie data structure, it efficiently handles word lookups and prefix-based suggestions. The intuitive GUI makes it easy to search for words, view meanings, and expand the dictionary with new entries.
